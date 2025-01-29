@@ -2,6 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Elmir-Zeynalov&color=blue)
 
+## GitHub Stats
+
+![Elmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmir-Zeynalov&show_icons=true&theme=radical)
+
 ## About Me
 
 I'm a passionate developer with a keen interest in software development and open-source contributions. I love exploring new technologies and continuously improving my skill set. 
@@ -26,9 +30,7 @@ A brief description of the project and what it aims to achieve.
 ### [Project 2: Cool Project](https://github.com/Elmir-Zeynalov/cool-project)
 A brief description of the project and what it aims to achieve.
 -->
-## GitHub Stats
 
-![Elmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmir-Zeynalov&show_icons=true&theme=radical)
 <!--
 ## Connect with Me
 
