@@ -12,7 +12,7 @@ I'm a passionate developer with a keen interest in software development and open
 
 - 🌱 Currently learning: System Architecture and looking and exploring ML.
 - 💼 Open to work: Yes
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [email@example.com](mailto:elmirz@uio.no)
 
 ## Skills
 
