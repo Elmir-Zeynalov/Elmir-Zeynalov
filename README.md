@@ -1,8 +1,7 @@
 # Hi there, I'm Elmir Zeynalov 👋
+## GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Elmir-Zeynalov&color=blue)
-
-## GitHub Stats
 
 ![Elmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmir-Zeynalov&show_icons=true&theme=radical)
 
