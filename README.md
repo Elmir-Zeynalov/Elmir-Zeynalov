@@ -10,7 +10,7 @@
 I'm a passionate developer with a keen interest in software development and open-source contributions. I love exploring new technologies and continuously improving my skill set. 
 Currently a Masters student at UiO and set to finish in June 2025.
 
-- 🌱 Currently learning: Software development and I am also exploring ML/DL.
+- 🌱 Currently learning: Primarily software development and I am also actively learning and exploring ML/DL.
 - 💼 Open to work: Yes
 - 📫 How to reach me: [elmirz@uio.no](mailto:elmirz@uio.no)
 
