@@ -3,8 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Elmir-Zeynalov&color=blue)
 
-![Elmir's GitHub stats]
-
 <!-- Light Mode -->
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
