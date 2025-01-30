@@ -50,7 +50,7 @@ A brief description of the project and what it aims to achieve.
 - [Twitter](https://twitter.com/elmir_zeynalov)
 - [Personal Website](https://elmirzeynalov.com)
 -->
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about technology.
+
 
 <!--
 **Elmir-Zeynalov/Elmir-Zeynalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
