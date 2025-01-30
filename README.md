@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Elmir-Zeynalov&color=blue)
 
-![Elmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmir-Zeynalov&show_icons=true&theme=radical)
+![Elmir's GitHub stats]
 
 <!-- Light Mode -->
 <div align="left">
