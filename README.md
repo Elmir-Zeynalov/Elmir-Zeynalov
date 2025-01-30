@@ -16,7 +16,7 @@
 <!-- Dark Mode -->
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=220 src="https://github-readme-stats.vercel.app/api?username=Elmir-Zeynalov&show_icons=true&theme=transparent&bg_color=000000#gh-dark-mode-only" alt="GitHub stats" />
+    <img height=220 src="https://github-readme-stats.vercel.app/api?username=Elmir-Zeynalov&show_icons=true&theme=radical&bg_color=000000#gh-dark-mode-only" alt="GitHub stats" />
     <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmir-Zeynalov&layout=compact&langs_count=12&theme=dark&bg_color=000000#gh-dark-mode-only&size_weight=0.7&count_weight=0.3" alt="GitHub stats" />
   </a>
 </a>
