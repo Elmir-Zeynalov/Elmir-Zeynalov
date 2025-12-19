@@ -32,7 +32,7 @@ Currently a Masters student at UiO and set to finish in June 2025.
 
 - 🌱 Currently learning: Primarily software development and I am also actively learning and exploring ML/DL.
 - 💼 Open to work: Yes
-- 📫 How to reach me: [elmirz@uio.no](mailto:elmirz@uio.no)
+- 📫 How to reach me: [elmirz@uio.no](mailto:elmir.zeynalov@soprasteria.com)
 
 ## Skills
 
